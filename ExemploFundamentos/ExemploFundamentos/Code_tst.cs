@@ -1,4 +1,24 @@
+using System;
 using ExemploFundamentos.Common.Models;
+
+/*
+
+
+// ================= USANDO ARRAY ====================== //
+
+
+int[] arrayInteiros = new int[3] {64,50,39};
+
+for(int contador = 0; contador < arrayInteiros.Length;contador++) 
+{
+    Console.WriteLine($"Posicao Nº {contador} = {arrayInteiros[contador]}");
+}
+
+
+
+// ================= USANDO A CLASSE PESSOA ====================== //
+
+
 
 Pessoa pessoa1 = new Pessoa();
 
@@ -8,7 +28,6 @@ pessoa1.Nome = "Matheus Chiarello";
 pessoa1.Apresentar();
 
 
-/*
 
 // ================= MENU INTERATIVO ====================== //
 
@@ -54,7 +73,6 @@ while(opcao != "4")
 Console.WriteLine("Operação Encerrada!");
 
 
-/*
 
 // ================= DO-WHILE ====================== //
 
