@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\mathe\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\Meu Drive\\3. Estudos\\1. Tech\\4. Bootcamps\\Bootcamp DIO - Pottencial .NET Developer\\Bootcamp_DIO_Pottencial_.NET_Developer\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectName": "ExemploFundamentos",
+      "projectPath": "G:\\Meu Drive\\3. Estudos\\1. Tech\\4. Bootcamps\\Bootcamp DIO - Pottencial .NET Developer\\Bootcamp_DIO_Pottencial_.NET_Developer\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+      "outputPath": "G:\\Meu Drive\\3. Estudos\\1. Tech\\4. Bootcamps\\Bootcamp DIO - Pottencial .NET Developer\\Bootcamp_DIO_Pottencial_.NET_Developer\\ExemploFundamentos\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
